@@ -23,3 +23,5 @@ https://user-images.githubusercontent.com/85580927/197087874-07775315-b430-48fc-
 ### **Gameplay**
 https://user-images.githubusercontent.com/85580927/197088401-90dd2602-0000-4188-83fc-1e0180a2b1ae.mp4
 
+
+![ranking-panel](https://user-images.githubusercontent.com/85580927/197088533-01f96b76-febc-433f-a66c-7a8cb806aa88.png)
