@@ -17,5 +17,6 @@ Note: These main menu pictures come directly from the png files used because I d
 ### **Song Selection Menu**
 #### *Light Mode*
 #### *Dark Mode*
-https://user-images.githubusercontent.com/85580927/197087547-b95750b9-9161-4b70-927a-7b4801bdbefe.mp4
+https://user-images.githubusercontent.com/85580927/197087607-13df6f67-5de1-451d-9181-860deb172b9d.mp4
+
 
