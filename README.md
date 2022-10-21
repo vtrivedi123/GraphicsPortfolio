@@ -20,3 +20,6 @@ https://user-images.githubusercontent.com/85580927/197087834-f4f4006f-dc02-4b5f-
 #### *Dark Mode*
 https://user-images.githubusercontent.com/85580927/197087874-07775315-b430-48fc-9406-a410bdaf2ba1.mp4
 
+### **Gameplay**
+https://user-images.githubusercontent.com/85580927/197088401-90dd2602-0000-4188-83fc-1e0180a2b1ae.mp4
+
