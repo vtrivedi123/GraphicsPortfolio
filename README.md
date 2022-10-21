@@ -37,5 +37,5 @@ I posted this skin for download on reddit and these are a few of the comments th
 ![image](https://user-images.githubusercontent.com/85580927/197089466-4d9ab400-5eff-4321-8e01-ec192c25ff91.png)
 
 ## **My Personal Profile Picture**
-###### This is image that I made for myself around a year ago by using an a devil character as a base and changing up the colors to make it look a little cooler, with a custom font.
+###### This is image that I made for myself around a year ago by using a devil character as a base. I changed up the colors and other layer styles using photoshop to make it look a little cooler. I also created a custom font to go along with the picture.
 ![image](https://user-images.githubusercontent.com/85580927/197091039-925c1890-84fa-4209-8ed7-40f7889c89d7.png)
