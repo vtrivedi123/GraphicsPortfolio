@@ -1,4 +1,4 @@
 # **UX Portfolio**
 
-# Main Menu
+## Main Menu
 ![](https://i.imgur.com/OS4JrLz.jpg)
