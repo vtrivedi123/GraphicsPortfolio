@@ -2,7 +2,7 @@
 These are my up-to-date user interface/experience creations.
 
 ## **osu! skin**
-osu! is a free to play and open source rhythm game available on PC.
+osu! is a free to play and open source rhythm game available on PC. A skin for this game is basically an overlay for their default UI while retaining the same features and playablity.
 * [https://osu.ppy.sh/home](https://osu.ppy.sh/home)
 
 ### **Main Menu**
