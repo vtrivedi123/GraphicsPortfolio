@@ -31,3 +31,6 @@ https://user-images.githubusercontent.com/85580927/197088401-90dd2602-0000-4188-
 ![image](https://user-images.githubusercontent.com/85580927/197088745-9d0f3aa1-1154-4ec6-829f-26f14a3d39c9.png)
 
 Note: All the information about how the song was played and the score achieved on it is displayed on this screen. Also, the circle object is the cursor that I made for my skin, with the cursor trail.
+
+I posted this skin for download on reddit and these are a few of the comments that I received.
+![image](https://user-images.githubusercontent.com/85580927/197089466-4d9ab400-5eff-4321-8e01-ec192c25ff91.png)
