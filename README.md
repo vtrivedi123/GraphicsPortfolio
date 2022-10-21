@@ -5,8 +5,6 @@ These are my up-to-date user interface/experience creations.
 osu! is a free to play and open source rhythm game available on PC.
 * [https://osu.ppy.sh/home](https://osu.ppy.sh/home)
 
-This skin is based on an anime called Citrus.
-
 ### **Main Menu**
 #### *Light Mode*
 ![menu-background](https://user-images.githubusercontent.com/85580927/197084173-091f7fff-c2aa-4e21-b37e-d370191007d1.jpg)
