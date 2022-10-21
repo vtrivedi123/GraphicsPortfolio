@@ -12,4 +12,4 @@ osu! is a free to play and open source rhythm game available on PC. A skin for t
 #### *Dark Mode*
 ![menu-background](https://user-images.githubusercontent.com/85580927/197084108-22ea0f60-02c5-4a88-a6ae-de792f39882a.jpg)
 
-Note: These are just the png files. The actual interface has the osu! logo overlayed ontop, with the osu! direct sidemenu text overlay, as indicated by the rounded rectangle on the side.
+Note: These main menu pictures come directly from the png files used because I do not have osu! supporter anymore, which allows these particular images to be displayed in game.. The actual interface has the osu! logo overlayed ontop, with the osu! direct sidemenu text overlay, as indicated by the rounded rectangle on the side.
