@@ -30,4 +30,4 @@ https://user-images.githubusercontent.com/85580927/197088401-90dd2602-0000-4188-
 #### *Dark Mode*
 ![image](https://user-images.githubusercontent.com/85580927/197088745-9d0f3aa1-1154-4ec6-829f-26f14a3d39c9.png)
 
-Note: All the information about how the song was played and the score achieved on it is displayed on this screen.
+Note: All the information about how the song was played and the score achieved on it is displayed on this screen. Also, the circle object is the cursor that I made for my skin, with the cursor trail.
