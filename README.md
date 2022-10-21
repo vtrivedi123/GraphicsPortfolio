@@ -13,7 +13,7 @@ osu! is a free to play and open source rhythm game available on PC. A skin for t
 #### *Dark Mode*
 ![menu-background](https://user-images.githubusercontent.com/85580927/197084108-22ea0f60-02c5-4a88-a6ae-de792f39882a.jpg)
 
-Note: These main menu pictures come directly from the png files used because I do not have osu! supporter anymore, which allowed these to be displayed in game. The actual interface has the osu! logo overlayed ontop, with the osu! direct side menu text overlay, as indicated by the rounded rectangle on the side. I previously received supporter as compensation for a commission that I did for a custom skin, but I deleted the project files for that after.
+###### Note: These main menu pictures come directly from the png files used because I do not have osu! supporter anymore, which allowed these to be displayed in game. The actual interface has the osu! logo overlayed ontop, with the osu! direct side menu text overlay, as indicated by the rounded rectangle on the side. I previously received supporter as compensation for a commission that I did for a custom skin, but I deleted the project files for that after.
 
 ### **Song Selection Menu**
 #### *Light Mode*
@@ -31,9 +31,9 @@ https://user-images.githubusercontent.com/85580927/197088401-90dd2602-0000-4188-
 #### *Dark Mode*
 ![image](https://user-images.githubusercontent.com/85580927/197088745-9d0f3aa1-1154-4ec6-829f-26f14a3d39c9.png)
 
-Note: All the information about how the song was played and the score achieved on it is displayed on this screen. Also, the circle object is the cursor that I made for my skin, with the cursor trail.
+###### Note: All the information about how the song was played and the score achieved on it is displayed on this screen. Also, the circle object is the cursor that I made for my skin, with the cursor trail.
 
-I posted this skin for download on reddit and these are a few of the comments that I received.
+###### I posted this skin for download on reddit and these are a few of the comments that I received.
 ![image](https://user-images.githubusercontent.com/85580927/197089466-4d9ab400-5eff-4321-8e01-ec192c25ff91.png)
 
 ## **Profile Picture**
