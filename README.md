@@ -1,5 +1,5 @@
 # **UX Portfolio**
-* [**Shige Twitch**](https://www.twitch.tv/shigetora)
+This is my
 
 ## Main Menu
 ![](https://i.imgur.com/OS4JrLz.jpg)
