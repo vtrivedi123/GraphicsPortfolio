@@ -1,7 +1,7 @@
 # **UX Portfolio**
 These are my up-to-date user interface/experience creations.
 
-## **Osu skin**
+## **osu! skin**
 Osu is a free to play and open source rhythm game available on PC.
 
 ### **Main Menu**
@@ -10,3 +10,5 @@ Osu is a free to play and open source rhythm game available on PC.
 
 #### *Dark Mode*
 ![menu-background](https://user-images.githubusercontent.com/85580927/197084108-22ea0f60-02c5-4a88-a6ae-de792f39882a.jpg)
+
+These are just the png files. The actual interface has the osu! logo overlayed ontop, with the osu! direct sidemenu text overlay, as indicated by the rounded rectangle on the side.
