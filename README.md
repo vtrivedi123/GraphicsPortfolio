@@ -25,5 +25,7 @@ https://user-images.githubusercontent.com/85580927/197088401-90dd2602-0000-4188-
 
 ### **Ranking Screen**
 #### *Light Mode*
+![image](https://user-images.githubusercontent.com/85580927/197088965-a8e8ed15-13a8-4a21-8897-4829711c36ff.png)
+
 #### *Dark Mode*
 ![image](https://user-images.githubusercontent.com/85580927/197088745-9d0f3aa1-1154-4ec6-829f-26f14a3d39c9.png)
