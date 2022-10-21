@@ -35,3 +35,6 @@ Note: All the information about how the song was played and the score achieved o
 
 I posted this skin for download on reddit and these are a few of the comments that I received.
 ![image](https://user-images.githubusercontent.com/85580927/197089466-4d9ab400-5eff-4321-8e01-ec192c25ff91.png)
+
+## **My Personal Profile Picture**
+![image](https://user-images.githubusercontent.com/85580927/197091039-925c1890-84fa-4209-8ed7-40f7889c89d7.png)
