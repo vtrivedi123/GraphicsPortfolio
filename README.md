@@ -33,9 +33,6 @@ https://user-images.githubusercontent.com/85580927/197088401-90dd2602-0000-4188-
 
 ###### Note: All the information about how the song was played and the score achieved on it is displayed on this screen. Also, the circle object is the cursor that I made for my skin, with the cursor trail.
 
-###### I posted this skin for download on reddit and these are a few of the comments that I received.
-![image](https://user-images.githubusercontent.com/85580927/197089466-4d9ab400-5eff-4321-8e01-ec192c25ff91.png)
-
 ## **Profile Picture**
 ###### This is image that I made for myself around a year ago by using a devil character as a base. I changed up the colors and other layer styles using photoshop to make it look a little cooler. I also created a custom font to go along with the picture.
 ![image](https://user-images.githubusercontent.com/85580927/197091039-925c1890-84fa-4209-8ed7-40f7889c89d7.png)
