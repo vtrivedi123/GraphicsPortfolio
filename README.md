@@ -1,4 +1,4 @@
-# **UX Portfolio**
+# **Graphics Portfolio**
 ###### These are my up-to-date user interface/experience creations.
 
 ## **osu! skin**
